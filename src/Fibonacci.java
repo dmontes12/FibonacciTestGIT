@@ -1,3 +1,7 @@
+/**
+	Diego Montes
+*/
+
 import java.util.Scanner;
 
 public class Fibonacci {
